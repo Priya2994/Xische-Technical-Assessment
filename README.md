@@ -1,4 +1,4 @@
-# MixFrame Assessment Project
+# # Xische Interview Assessment
 
 The project’s main goal is to hit NY Times Most Popular Articles API & show a list of articles that shows details when items on the list are tapped (a typical master/detail web app).
 
